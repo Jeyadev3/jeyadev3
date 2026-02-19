@@ -26,12 +26,12 @@ Always curious, always building.
 
 ## GitHub Contributions Graph
 
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyadev3&theme=github-dark)](https://github.com/jeyadev3)
+[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeyadev3&theme=github-dark)](https://github.com/Jeyadev3)
 
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=jeyadev3&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=Jeyadev3&theme=dark)](https://git.io/streak-stats)
 
 ## Reach Out To Me
 
