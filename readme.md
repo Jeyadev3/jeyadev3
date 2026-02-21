@@ -5,11 +5,10 @@
 Hi, I'm **Jeyadev T** 👨‍💻  
 A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
 
-- 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
+- 🌱 Currently learning **Object Oriented Programming** and strengthening core programming concepts  
 - 💻 Comfortable with **Python, Java**  
-- 🌐 Building **frontend web projects** using HTML, CSS, and JavaScript  
-- 🧠 Exploring **backend development** and fundamentals of **full-stack development**  
-- 🚀 Actively working on **mini projects** and sharing my learning journey on GitHub  
+- 🌐 Interested in **frontend web projects** using HTML, CSS, and JavaScript  
+- 🧠 Exploring **backend development** and fundamentals of **full-stack development**   
 
 I enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
 Always curious, always building.
