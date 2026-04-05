@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-## 👋 About Me
+## About Me
 
 Hi, I'm **Jeyadev T** 👨‍💻  
 A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
