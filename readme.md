@@ -1,40 +1,69 @@
-## Hi there!
+<!-- ======================= HEADER ======================= -->
 
-## About Me
+<div align="center">
 
-Hi, I'm **Jeyadev T** 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=JEYADEV%20T&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=62&descSize=18" width="100%"/>
 
-A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
+<br>
 
-- 🌱 Currently learning **Object Oriented Programming** and strengthening core programming concepts  
-- 💻 Comfortable with **Python, Java**  
-- 🌐 Interested in **frontend web projects** using HTML, CSS, and JavaScript  
-- 🧠 Exploring **backend development** and fundamentals of **full-stack development**   
+### `Code • Learn • Build • Repeat`
 
-I enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
-Always curious, always building.
+<p>
+  <i>Turning curiosity into code, one problem at a time.</i>
+</p>
 
+<br>
 
-## Programming Languages & Frameworks
+<a href="https://github.com/Jeyadev3">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jeyadev03">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:jeyadev12345@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Skills](https://skillicons.dev/icons?i=py,java,html,css)  
+</div>
 
-## Tools
+<br>
 
-![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,html,github,arduino)
+---
 
+<!-- ======================= ABOUT ======================= -->
 
-## GitHub Contributions Graph
+## `01` — A little about me
 
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeyadev3&theme=github-dark)](https://github.com/Jeyadev3)
+<table>
+<tr>
+<td width="55%" valign="top">
 
+### Hey, I'm **Jeyadev** 👋
 
-## GitHub Stats
+I'm a **Computer Science Engineering student** at **Amrita Vishwa Vidyapeetham**, interested in software development, problem-solving and understanding how things work behind the code.
 
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=Jeyadev3&theme=dark)](https://git.io/streak-stats)
+I'm currently spending most of my time strengthening my programming fundamentals, exploring **Data Structures & Algorithms**, working with databases, and building projects along the way.
 
-## Reach Out To Me
+I enjoy learning by actually **writing, testing, breaking and fixing code**.
 
-<a href="https://www.linkedin.com/in/jeyadev03">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
-<a href="mailto:jeyadev12345@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.instagram.com/jeya_dev/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
+</td>
+
+<td width="45%" valign="top">
+
+### `current.status`
+
+```text
+🎓 Student
+💻 Programmer
+🧠 Problem Solver
+🔍 Curious Learner
+
+Currently exploring:
+
+→ Data Structures
+→ Algorithms
+→ DBMS
+→ Web Development
+→ Software Development
