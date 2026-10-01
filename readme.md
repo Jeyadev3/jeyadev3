@@ -1,69 +1,109 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=JEYADEV%20T&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=62&descSize=18" width="100%"/>
+# Jeyadev T
+
+### Computer Science Engineering Student
+
+`C` · `C++` · `Java` · `Python` · `JavaScript` · `SQL`
 
 <br>
 
-### `Code • Learn • Build • Repeat`
-
-<p>
-  <i>Turning curiosity into code, one problem at a time.</i>
-</p>
-
-<br>
-
-<a href="https://github.com/Jeyadev3">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jeyadev03">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:jeyadev12345@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[GitHub](https://github.com/Jeyadev3) •
+[LinkedIn](https://www.linkedin.com/in/jeyadev03) •
+[Email](mailto:jeyadev12345@gmail.com)
 
 </div>
 
-<br>
+---
+
+### About
+
+I'm **Jeyadev T**, a Computer Science Engineering student at
+**Amrita Vishwa Vidyapeetham**.
+
+I enjoy solving problems, understanding how software works,
+and turning what I learn into working code.
+
+Currently, I'm spending most of my time strengthening my
+programming fundamentals, working with **Data Structures &
+Algorithms**, learning **DBMS**, and exploring web development.
+
+> Learning something is good.  
+> Understanding it well enough to build with it is better.
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+### Languages
 
-## `01` — A little about me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql" />
+</p>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+---
 
-### Hey, I'm **Jeyadev** 👋
+### Tools I Use
 
-I'm a **Computer Science Engineering student** at **Amrita Vishwa Vidyapeetham**, interested in software development, problem-solving and understanding how things work behind the code.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,github,matlab,arduino" />
+</p>
 
-I'm currently spending most of my time strengthening my programming fundamentals, exploring **Data Structures & Algorithms**, working with databases, and building projects along the way.
+`VS Code` · `PyCharm` · `IntelliJ IDEA` · `Eclipse`  
+`GitHub` · `MATLAB` · `Arduino IDE` · `Terminal`
 
-I enjoy learning by actually **writing, testing, breaking and fixing code**.
+---
 
-</td>
+### Currently
 
-<td width="45%" valign="top">
-
-### `current.status`
-
-```text
-🎓 Student
-💻 Programmer
-🧠 Problem Solver
-🔍 Curious Learner
-
-Currently exploring:
-
-→ Data Structures
-→ Algorithms
-→ DBMS
+**Learning**
+→ Data Structures & Algorithms  
+→ DBMS & SQL  
+→ Problem Solving  
 → Web Development
-→ Software Development
+
+**Improving**
+→ Programming fundamentals  
+→ Algorithmic thinking  
+→ Writing cleaner code  
+→ Building practical projects
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeyadev3&theme=github-dark&hide_border=true" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-two-blush.vercel.app?user=Jeyadev3&theme=dark&hide_border=true">
+</p>
+
+---
+
+### Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jeyadev03">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:jeyadev12345@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="42">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/jeya_dev/">
+<img src="https://skillicons.dev/icons?i=instagram" width="42">
+</a>
+
+</p>
+
+<div align="center">
+
+`Curious mind. Consistent practice. Better code. 🚀`
+
+</div>
